@@ -19,6 +19,7 @@ export default function Home() {
       {/* Projects Section */}
       <section id="projects">
         <h2>Projects</h2>
+
         <div className="project-card">
           <h3>E-Commerce REST API</h3>
           <p>An E-Commerce REST API — a system that lets people manage products online.
@@ -26,8 +27,20 @@ export default function Home() {
             A real, deployed, production-grade API that an online store could actually use!.</p>
           <a href="https://github.com/myerio/Ecommerce-api">GitHub Repo</a>
         </div>
-        {/* Add more projects here as needed */}
-      </section>
+
+        <div className="project-card">
+          <h3>Flask API SQLite</h3>
+          <p>A lightweight Flask API using SQLite, featuring a /users endpoint and a homepage that explains how to use the API.</p>
+          <a href="https://github.com/myerio/flask-api-sqlite">GitHub Repo</a>
+        </div>
+
+        <div className="project-card">
+          <h3>Portfolio Website</h3>
+          <p>My personal portfolio website showcasing my projects, skills, and experience.</p>
+          <a href="https://github.com/myerio/portfolio">GitHub Repo</a>
+        </div>
+</section>
+
 
       {/* Skills Section */}
       <section id="skills">
