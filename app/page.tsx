@@ -12,7 +12,7 @@ export default function Home() {
       <section id="about">
         <h2>About Me</h2>
         <p>
-          Hi, I'm Gabriel. I spent nearly ten years in hospitality before I really got into technology. That's when I started learning on my own and building some local projects. Right now, I'm aiming for a junior Azure developer role. Curiosity keeps me going, along with this real drive to learn more. My background there built up solid communication skills, plus flexibility and a problem-solving mindset. All that supports me while I work on little projects and build my tech base stronger.
+          Hi, I'm Gabriel. I spent nearly ten years in hospitality and ecommerce before transitioning into technology, where I started learning on my own and building local projects. Right now, I'm aiming for a junior Azure developer role, driven by genuine curiosity and a strong desire to keep learning. My background in hospitality and ecommerce built solid communication skills, along with flexibility and a problem-solving mindset — all of which support me as I work on personal projects and strengthen my technical foundation.
         </p>
       </section>
 
