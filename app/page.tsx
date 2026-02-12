@@ -32,14 +32,39 @@ export default function Home() {
       {/* Skills Section */}
       <section id="skills">
         <h2>Skills</h2>
-        <ul>
-          <li>Python</li>
-          <li>Docker</li>
-          <li>Git</li>
-          <li>CI/CD</li>
-          <li>Customer Service</li>
-          
-        </ul>
+        <h3>Technical Skills (Currently Learning)</h3>
+<ul>
+  <li>Microsoft Azure Cloud Services</li>
+  <li>Cloud Computing & Infrastructure</li>
+  <li>DevOps Practices</li>
+  <li>AI Software Development</li>
+  <li>Azure Administration</li>
+</ul>
+
+<h3>Technical Skills (Foundational/Tools)</h3>
+<ul>
+  <li>E-Commerce Management (Etsy)</li>
+  <li>Design Management & Quality Control</li>
+  <li>Web-based Systems</li>
+</ul>
+
+<h3>Leadership & Operations</h3>
+<ul>
+  <li>Team Leadership & Supervision</li>
+  <li>Project Coordination</li>
+  <li>Quality Assurance</li>
+  <li>Operational Management</li>
+  <li>Customer Service Excellence</li>
+</ul>
+
+<h3>Problem-Solving & Soft Skills</h3>
+<ul>
+  <li>Problem-Solving Under Pressure</li>
+  <li>Process Optimization</li>
+  <li>Team Collaboration</li>
+  <li>Fast-Paced Environment Management</li>
+</ul>
+
       </section>
 
       {/* Contact Section */}
